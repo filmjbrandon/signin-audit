@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+config.py
+failed_signins_report.json
+.env
+.venv/
+venv/
